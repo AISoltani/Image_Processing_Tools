@@ -1,10 +1,10 @@
 # Image_Processing_Tools
 Processing makes it simple to handle images, iterate over the pixels of an image and perform operations on them. here we use OpenCV Tools, OpenCV offers all kinds of algorithms from basic image processing to advanced computer vision
 
-# Image processing is the process of transforming an image into a digital form and performing certain operations to get some useful information from it. The image processing system usually treats all images as 2D signals when applying certain predetermined signal processing methods.
+Image processing is the process of transforming an image into a digital form and performing certain operations to get some useful information from it. The image processing system usually treats all images as 2D signals when applying certain predetermined signal processing methods.
 # We have provided several of the most useful tools here. The codes are written as simply as possible, which helps a lot in learning them.
 
-# Before we jump into image processing, we need to first understand what exactly constitutes an image. An image is represented by its dimensions (height and width) based on the number of pixels. For example, if the dimensions of an image are 500 x 400 (width x height), the total number of pixels in the image is 200000.
+Before we jump into image processing, we need to first understand what exactly constitutes an image. An image is represented by its dimensions (height and width) based on the number of pixels. For example, if the dimensions of an image are 500 x 400 (width x height), the total number of pixels in the image is 200000.
 
 This pixel is a point on the image that takes on a specific shade, opacity or color. It is usually represented in one of the following:
 

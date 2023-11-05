@@ -1,6 +1,8 @@
 import cv2 
 import numpy as np
- 
+
+# You can use any input format...
+
 image = cv2.imread('cow.jpg')
 cropped = image[100:600 , 150:650]
 cv2.imshow("Beautiful Cow!", cropped)
